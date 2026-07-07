@@ -1,10 +1,11 @@
 {
   "date": "2026-07-07",
+  "weekday": "tuesday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1",
-      "file": "pulkitchen1.png",
+      "slug": "pulkitchen1_tuesday",
+      "file": "pulkitchen1_tuesday.png",
       "count": 6,
       "menus": [
         "참치김치찌개",
@@ -19,8 +20,8 @@
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2",
-      "file": "pulkitchen2.png",
+      "slug": "pulkitchen2_tuesday",
+      "file": "pulkitchen2_tuesday.png",
       "count": 7,
       "menus": [
         "설렁탕＆ 소면사리",
