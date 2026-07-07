@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-07",
+  "buildings": [
+    {
+      "label": "풀키친1 (E 1~8)",
+      "slug": "pulkitchen1",
+      "file": "pulkitchen1.png",
+      "count": 7
+    },
+    {
+      "label": "풀키친2 (E 9~14)",
+      "slug": "pulkitchen2",
+      "file": "pulkitchen2.png",
+      "count": 11
+    }
+  ]
+}
