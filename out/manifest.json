@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-07",
-  "weekday": "tuesday",
+  "date": "2026-07-08",
+  "weekday": "wednesday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_tuesday",
-      "file": "pulkitchen1_tuesday.png",
+      "slug": "pulkitchen1_wednesday",
+      "file": "pulkitchen1_wednesday.png",
       "count": 6,
       "menus": [
-        "참치김치찌개",
-        "새싹삼 영양닭죽",
-        "열쫄냉 (열무김치 냉쫄면)",
-        "불고기 두부면 샐러드",
-        "치즈 돈까스 ＆ 사라다빵",
-        "미소 치즈라멘"
+        "찢은 소고기미역국",
+        "돈육 쌈장비빔밥",
+        "오이소박이 비빔국수",
+        "베지함박 스테이크 샐러드",
+        "떡볶이 돈까스＆ 모듬튀김",
+        "닭다리 차오미엔"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_tuesday",
-      "file": "pulkitchen2_tuesday.png",
+      "slug": "pulkitchen2_wednesday",
+      "file": "pulkitchen2_wednesday.png",
       "count": 7,
       "menus": [
-        "설렁탕＆ 소면사리",
-        "돈육 낙지볶음",
-        "냉메밀 소바",
-        "폴드포크 샐러드",
-        "우삼겹 마늘쫑 비빔밥",
-        "폴드포크 샐러드",
-        "탄투리 치킨 또띠아랩"
+        "순두부 찌개",
+        "두끼 오리지날 떡볶이",
+        "냉도토리 묵사발",
+        "딸기 리코타 샐러드",
+        "돈까스 ＆미니 비빔국수",
+        "딸기 리코타 샐러드",
+        "훈제오리 ＆단호박 헬스팩"
       ],
       "width": 1850,
       "height": 914
