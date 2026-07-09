@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-08",
-  "weekday": "wednesday",
+  "date": "2026-07-09",
+  "weekday": "thursday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_wednesday",
-      "file": "pulkitchen1_wednesday.png",
+      "slug": "pulkitchen1_thursday",
+      "file": "pulkitchen1_thursday.png",
       "count": 6,
       "menus": [
-        "찢은 소고기미역국",
-        "돈육 쌈장비빔밥",
-        "오이소박이 비빔국수",
-        "베지함박 스테이크 샐러드",
-        "떡볶이 돈까스＆ 모듬튀김",
-        "닭다리 차오미엔"
+        "전주식 콩나물국밥",
+        "잡채덮밥 ＆사천 자장소스",
+        "불고기 분보싸오",
+        "우삼겹 통밀 파스타 샐러드",
+        "등심 돈까스＆미니 냉모밀 소바",
+        "마라상궈덮밥"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_wednesday",
-      "file": "pulkitchen2_wednesday.png",
+      "slug": "pulkitchen2_thursday",
+      "file": "pulkitchen2_thursday.png",
       "count": 7,
       "menus": [
-        "순두부 찌개",
-        "두끼 오리지날 떡볶이",
-        "냉도토리 묵사발",
-        "딸기 리코타 샐러드",
-        "돈까스 ＆미니 비빔국수",
-        "딸기 리코타 샐러드",
-        "훈제오리 ＆단호박 헬스팩"
+        "뿌리채소 고사리 들깨탕",
+        "계란한알 찜닭",
+        "베이컨 토마토 파스타",
+        "푸실리 살사 샐러드",
+        "카오카무 족발덮밥",
+        "푸실리 살사 샐러드",
+        "바질 닭가슴살 김밥"
       ],
       "width": 1850,
       "height": 914
