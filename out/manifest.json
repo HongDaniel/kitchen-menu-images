@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-09",
-  "weekday": "thursday",
+  "date": "2026-07-10",
+  "weekday": "friday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_thursday",
-      "file": "pulkitchen1_thursday.png",
+      "slug": "pulkitchen1_friday",
+      "file": "pulkitchen1_friday.png",
       "count": 6,
       "menus": [
-        "전주식 콩나물국밥",
-        "잡채덮밥 ＆사천 자장소스",
-        "불고기 분보싸오",
-        "우삼겹 통밀 파스타 샐러드",
-        "등심 돈까스＆미니 냉모밀 소바",
-        "마라상궈덮밥"
+        "불고기 버섯솥밥",
+        "어묵채 국물떡볶이",
+        "아보카도명란 비빔우동",
+        "두부카츠 샐러드",
+        "유니 짜장면 ＆달걀 프라이",
+        "유니 짜장면 ＆달걀 프라이"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_thursday",
-      "file": "pulkitchen2_thursday.png",
+      "slug": "pulkitchen2_friday",
+      "file": "pulkitchen2_friday.png",
       "count": 7,
       "menus": [
-        "뿌리채소 고사리 들깨탕",
-        "계란한알 찜닭",
-        "베이컨 토마토 파스타",
-        "푸실리 살사 샐러드",
-        "카오카무 족발덮밥",
-        "푸실리 살사 샐러드",
-        "바질 닭가슴살 김밥"
+        "해물 누룽지탕",
+        "오징어 두부 두루치기",
+        "물냉면",
+        "비프 머쉬룸 샐러드",
+        "미운영",
+        "비프 머쉬룸 샐러드",
+        "오이 두부 비빔밥＆ 너의하루"
       ],
       "width": 1850,
       "height": 914
