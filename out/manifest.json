@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-10",
-  "weekday": "friday",
+  "date": "2026-07-13",
+  "weekday": "monday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_friday",
-      "file": "pulkitchen1_friday.png",
+      "slug": "pulkitchen1_monday",
+      "file": "pulkitchen1_monday.png",
       "count": 6,
       "menus": [
-        "불고기 버섯솥밥",
-        "어묵채 국물떡볶이",
-        "아보카도명란 비빔우동",
-        "두부카츠 샐러드",
-        "유니 짜장면 ＆달걀 프라이",
-        "유니 짜장면 ＆달걀 프라이"
+        "우삼겹 숙주해장국",
+        "제육덮밥 ＆달걀프라이",
+        "불닭크림 파스타",
+        "참치포케 샐러드",
+        "고구마 치즈 왕돈까스",
+        "차슈짬뽕"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_friday",
-      "file": "pulkitchen2_friday.png",
+      "slug": "pulkitchen2_monday",
+      "file": "pulkitchen2_monday.png",
       "count": 7,
       "menus": [
-        "해물 누룽지탕",
-        "오징어 두부 두루치기",
-        "물냉면",
-        "비프 머쉬룸 샐러드",
-        "미운영",
-        "비프 머쉬룸 샐러드",
-        "오이 두부 비빔밥＆ 너의하루"
+        "소고기 샤브전골",
+        "장조림 버터 비빔밥",
+        "얼큰 칼제비",
+        "식물성 미트볼 샐러드",
+        "돈까스 제육 SET",
+        "식물성 미트볼 샐러드",
+        "눈꽃치즈 우삼겹 곤약 볶음밥"
       ],
       "width": 1850,
       "height": 914
