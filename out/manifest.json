@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-13",
-  "weekday": "monday",
+  "date": "2026-07-14",
+  "weekday": "tuesday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_monday",
-      "file": "pulkitchen1_monday.png",
+      "slug": "pulkitchen1_tuesday",
+      "file": "pulkitchen1_tuesday.png",
       "count": 6,
       "menus": [
-        "우삼겹 숙주해장국",
-        "제육덮밥 ＆달걀프라이",
-        "불닭크림 파스타",
-        "참치포케 샐러드",
-        "고구마 치즈 왕돈까스",
-        "차슈짬뽕"
+        "꽃게된장찌개",
+        "우삼겹와사비 마요덮밥",
+        "땅콩콩국수",
+        "불고기 바베큐 샐러드",
+        "모듬카츠 돈부리",
+        "우삼겹 마파두부 덮밥"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_monday",
-      "file": "pulkitchen2_monday.png",
+      "slug": "pulkitchen2_tuesday",
+      "file": "pulkitchen2_tuesday.png",
       "count": 7,
       "menus": [
-        "소고기 샤브전골",
-        "장조림 버터 비빔밥",
-        "얼큰 칼제비",
-        "식물성 미트볼 샐러드",
-        "돈까스 제육 SET",
-        "식물성 미트볼 샐러드",
-        "눈꽃치즈 우삼겹 곤약 볶음밥"
+        "돼지고기 된장찌개",
+        "오징어 덮밥 ＆김가루",
+        "메밀 콩국수",
+        "갈릭포크 샐러드",
+        "차슈덮밥",
+        "갈릭포크 샐러드",
+        "펜네 토마토 파스타＆ 그릴함박"
       ],
       "width": 1850,
       "height": 914
