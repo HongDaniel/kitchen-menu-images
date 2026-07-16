@@ -1,39 +1,39 @@
 {
-  "date": "2026-07-15",
-  "weekday": "wednesday",
+  "date": "2026-07-16",
+  "weekday": "thursday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_wednesday",
-      "file": "pulkitchen1_wednesday.png",
+      "slug": "pulkitchen1_thursday",
+      "file": "pulkitchen1_thursday.png",
       "count": 6,
       "menus": [
-        "뚝배기 오리영양탕",
-        "보양리조또 with장각 ＆전복구이",
-        "보양리조또 with장각 ＆전복구이",
-        "식물성 미트볼 이집트콩 샐러드",
-        "장어튀김 소바",
-        "장어튀김 소바"
+        "스지도가니탕",
+        "꼬막미나리 비빔밥",
+        "갓절임 들기름막국수",
+        "데리야끼 닭안심 샐러드",
+        "삼선 간짜장면",
+        "삼선 간짜장면"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_wednesday",
-      "file": "pulkitchen2_wednesday.png",
+      "slug": "pulkitchen2_thursday",
+      "file": "pulkitchen2_thursday.png",
       "count": 7,
       "menus": [
-        "오리 영양탕",
-        "리조또 ＆장각 전복구이",
-        "리조또 ＆장각 전복구이",
-        "불닭포케 샐러드",
-        "장어튀김 메밀소바",
-        "불닭포케 샐러드",
-        "장어튀김 메밀소바"
+        "대파 육개장",
+        "눈꽃치즈 닭갈비",
+        "열쫄면 열무김치 냉쫄면",
+        "크림 새우볼 샐러드",
+        "돈까스＆ 옛날카레 라이스",
+        "크림 새우볼 샐러드",
+        "스팸 무스비 김밥＆ 하루견과"
       ],
       "width": 1850,
-      "height": 510
+      "height": 914
     }
   ]
 }
