@@ -1,26 +1,39 @@
 {
-  "date": "2026-07-17",
-  "weekday": "friday",
+  "date": "2026-07-20",
+  "weekday": "monday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_friday",
-      "file": null,
-      "count": 0,
-      "menus": [],
-      "width": null,
-      "height": null
+      "slug": "pulkitchen1_monday",
+      "file": "pulkitchen1_monday.png",
+      "count": 6,
+      "menus": [
+        "우삼겹순두부 된장짜박이",
+        "전복내장죽 ＆미니 제주고기국수",
+        "라구일식 카레우동 ＆멘치까스",
+        "불고기 타코 샐러드",
+        "돈까스 ＆미니 오므 라이스",
+        "바지락 순두부 짬뽕밥"
+      ],
+      "width": 1392,
+      "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_friday",
-      "file": null,
-      "count": 0,
+      "slug": "pulkitchen2_monday",
+      "file": "pulkitchen2_monday.png",
+      "count": 7,
       "menus": [
-        "＆드레싱2종"
+        "뼈없는 감자탕",
+        "제육덮밥 ＆계란 프라이",
+        "빠네크림 파스타",
+        "우삼겹 메밀면 샐러드",
+        "마라샹궈 ＆계란 볶음밥",
+        "우삼겹 메밀면 샐러드",
+        "치킨 데리야끼 덮밥"
       ],
-      "width": null,
-      "height": null
+      "width": 1850,
+      "height": 914
     }
   ]
 }
