@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-21",
-  "weekday": "tuesday",
+  "date": "2026-07-22",
+  "weekday": "wednesday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_tuesday",
-      "file": "pulkitchen1_tuesday.png",
+      "slug": "pulkitchen1_wednesday",
+      "file": "pulkitchen1_wednesday.png",
       "count": 6,
       "menus": [
-        "통소세지 부대찌개",
-        "오돈불고기 덮밥 ＆달걀프라이",
-        "초계국수",
-        "에그누들 치킨 샐러드",
-        "가라아게 마요덮밥",
-        "동파육 덮밥"
+        "치킨스테이크 솥밥",
+        "열무 생채비빔밥 ＆달걀프라이",
+        "메밀콩국수",
+        "우삼겹 메밀면 샐러드",
+        "돈까스 ＆베이컨 알리오 올리오",
+        "닭다리 소유라멘"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_tuesday",
-      "file": "pulkitchen2_tuesday.png",
+      "slug": "pulkitchen2_wednesday",
+      "file": "pulkitchen2_wednesday.png",
       "count": 7,
       "menus": [
-        "부대찌개 ＆ 라면사리",
-        "된장찌개",
-        "북촌 손만두 피냉면",
-        "마크니 치킨 샐러드",
-        "잡채덮밥 ＆짜장 ＆프라이",
-        "마크니 치킨 샐러드",
-        "단호박 크림치즈 샌드위치"
+        "소고기 미역국",
+        "소고기 미역국",
+        "열무 비빔밥 ＆프라이",
+        "두부에그 샐러드",
+        "돈까스 ＆쟁반 막국수",
+        "두부텐더 에그 샐러드",
+        "불고기 샐러드 김밥＆ 현미스낵"
       ],
       "width": 1850,
       "height": 914
