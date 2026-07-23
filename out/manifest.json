@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-22",
-  "weekday": "wednesday",
+  "date": "2026-07-23",
+  "weekday": "thursday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_wednesday",
-      "file": "pulkitchen1_wednesday.png",
+      "slug": "pulkitchen1_thursday",
+      "file": "pulkitchen1_thursday.png",
       "count": 6,
       "menus": [
-        "치킨스테이크 솥밥",
-        "열무 생채비빔밥 ＆달걀프라이",
-        "메밀콩국수",
-        "우삼겹 메밀면 샐러드",
-        "돈까스 ＆베이컨 알리오 올리오",
-        "닭다리 소유라멘"
+        "소고기 사골만두떡국",
+        "골드크림소스 오므라이스 ＆그릴함박",
+        "냉모밀소바 ＆돈까스",
+        "숯불 콩고기 샐러드",
+        "돈까스 ＆미니 비빔 막국수",
+        "우육탕면"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_wednesday",
-      "file": "pulkitchen2_wednesday.png",
+      "slug": "pulkitchen2_thursday",
+      "file": "pulkitchen2_thursday.png",
       "count": 7,
       "menus": [
-        "소고기 미역국",
-        "소고기 미역국",
-        "열무 비빔밥 ＆프라이",
-        "두부에그 샐러드",
-        "돈까스 ＆쟁반 막국수",
-        "두부텐더 에그 샐러드",
-        "불고기 샐러드 김밥＆ 현미스낵"
+        "얇은피 만두국",
+        "철판골드 크림함박",
+        "우육탕면",
+        "참치포케 샐러드",
+        "부타노 가쿠니동",
+        "참치포케 샐러드",
+        "돈목살 ＆계란 헬스팩"
       ],
       "width": 1850,
       "height": 914
