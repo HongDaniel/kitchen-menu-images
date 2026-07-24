@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-23",
-  "weekday": "thursday",
+  "date": "2026-07-24",
+  "weekday": "friday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_thursday",
-      "file": "pulkitchen1_thursday.png",
+      "slug": "pulkitchen1_friday",
+      "file": "pulkitchen1_friday.png",
       "count": 6,
       "menus": [
-        "소고기 사골만두떡국",
-        "골드크림소스 오므라이스 ＆그릴함박",
-        "냉모밀소바 ＆돈까스",
-        "숯불 콩고기 샐러드",
-        "돈까스 ＆미니 비빔 막국수",
-        "우육탕면"
+        "철판콩나물 불고기",
+        "모듬카츠 하이라이스",
+        "마라로제 떡볶이",
+        "통마늘 불고기 샐러드",
+        "우삼겹 폭탄 짜장면",
+        "우삼겹 폭탄 짜장면"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_thursday",
-      "file": "pulkitchen2_thursday.png",
+      "slug": "pulkitchen2_friday",
+      "file": "pulkitchen2_friday.png",
       "count": 7,
       "menus": [
-        "얇은피 만두국",
-        "철판골드 크림함박",
-        "우육탕면",
-        "참치포케 샐러드",
-        "부타노 가쿠니동",
-        "참치포케 샐러드",
-        "돈목살 ＆계란 헬스팩"
+        "황태 해장국",
+        "소이진미 산채 비빔밥",
+        "초계 비빔국수",
+        "닭가슴살 파스타 샐러드",
+        "미운영",
+        "닭가슴살 파스타 샐러드",
+        "도제 유부 초밥"
       ],
       "width": 1850,
       "height": 914
