@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-27",
-  "weekday": "monday",
+  "date": "2026-07-28",
+  "weekday": "tuesday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_monday",
-      "file": "pulkitchen1_monday.png",
+      "slug": "pulkitchen1_tuesday",
+      "file": "pulkitchen1_tuesday.png",
       "count": 6,
       "menus": [
-        "돈육짜글이 김치찌개",
-        "오징어젓 생채비빔밥",
-        "매콤쫄면",
-        "우삽겹 할라피뇨 샐러드",
-        "대만식 지파이 ＆돈목살 필라프",
-        "황태해장 백짬뽕"
+        "뼈없는감자탕",
+        "도토리냉묵밥",
+        "당근간장국수",
+        "리코타 치즈치킨 샐러드",
+        "제육 돈까스 정식",
+        "제육 돈까스 정식"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_monday",
-      "file": "pulkitchen2_monday.png",
+      "slug": "pulkitchen2_tuesday",
+      "file": "pulkitchen2_tuesday.png",
       "count": 7,
       "menus": [
-        "참치 김치찌개",
-        "반반 불고기",
-        "햄에그 마요덮밥",
-        "치킨시저 샐러드",
-        "돈까스 ＆투움바 파스타",
-        "치킨시저 샐러드",
-        "두부 강된장 근대곤약 쌈밥"
+        "옹심이 수제비국",
+        "하이 라이스 ＆소시지",
+        "산채 비빔밥＆ 두부구이",
+        "불고기 버섯포케 샐러드",
+        "우삼겹 쟁반 짜장면",
+        "불고기 버섯포케 샐러드",
+        "로제크림 함박 ＆볶음밥"
       ],
       "width": 1850,
       "height": 914
