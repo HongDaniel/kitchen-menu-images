@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-28",
-  "weekday": "tuesday",
+  "date": "2026-07-29",
+  "weekday": "wednesday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_tuesday",
-      "file": "pulkitchen1_tuesday.png",
+      "slug": "pulkitchen1_wednesday",
+      "file": "pulkitchen1_wednesday.png",
       "count": 6,
       "menus": [
-        "뼈없는감자탕",
-        "도토리냉묵밥",
-        "당근간장국수",
-        "리코타 치즈치킨 샐러드",
-        "제육 돈까스 정식",
-        "제육 돈까스 정식"
+        "병천 순대돼지국밥",
+        "잡채덮밥 ＆자장소스*＆달걀프라이",
+        "북촌 손만두피냉면",
+        "베지함박 포케 샐러드",
+        "돈까스 ＆매콤 토마토 파스타",
+        "태국식 돼지고기 덮밥 ＆달걀 프라이"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_tuesday",
-      "file": "pulkitchen2_tuesday.png",
+      "slug": "pulkitchen2_wednesday",
+      "file": "pulkitchen2_wednesday.png",
       "count": 7,
       "menus": [
-        "옹심이 수제비국",
-        "하이 라이스 ＆소시지",
-        "산채 비빔밥＆ 두부구이",
-        "불고기 버섯포케 샐러드",
-        "우삼겹 쟁반 짜장면",
-        "불고기 버섯포케 샐러드",
-        "로제크림 함박 ＆볶음밥"
+        "쫄면 순두부 찌개",
+        "돈육 묵은지 솥밥",
+        "시래기 들기름 막국수",
+        "에그마요 베이컨 샐러드",
+        "남산 왕돈까스 오이고추",
+        "에그마요 베이컨 샐러드",
+        "오이참치 샌드위치"
       ],
       "width": 1850,
       "height": 914
