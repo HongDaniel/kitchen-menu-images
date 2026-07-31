@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-30",
-  "weekday": "thursday",
+  "date": "2026-07-31",
+  "weekday": "friday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_thursday",
-      "file": "pulkitchen1_thursday.png",
+      "slug": "pulkitchen1_friday",
+      "file": "pulkitchen1_friday.png",
       "count": 6,
       "menus": [
-        "해물 순두부찌개",
-        "어향가지 마파두부덮밥 ＆달걀프라이",
-        "냉이페스토 파스타",
-        "실곤약 돈목살 샐러드",
-        "등심 돈까스 ＆미니 냉우동",
-        "소고기 마라탕면"
+        "제육 돌솥비빔밥",
+        "두끼오리지널 떡볶이",
+        "소불고기우동",
+        "치킨시저 샐러드",
+        "유슬 짜장면 ＆달걀 프라이",
+        "유슬 짜장면 ＆달걀 프라이"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_thursday",
-      "file": "pulkitchen2_thursday.png",
+      "slug": "pulkitchen2_friday",
+      "file": "pulkitchen2_friday.png",
       "count": 7,
       "menus": [
-        "닭전골",
-        "텐신항",
-        "노각 김치말이 냉국수",
-        "우삼겹 할라페뇨 샐러드",
-        "고기 짬뽕밥",
-        "우삼겹 할라페뇨 샐러드",
-        "돈목살 자몽 헬스팩"
+        "육전국밥",
+        "중화덮밥 ＆계란 프라이",
+        "구운야채 냉소바＆ 새우튀김",
+        "당근라페 샐러드",
+        "미운영",
+        "당근라페 샐러드",
+        "닭가슴살 에그 또띠아랩"
       ],
       "width": 1850,
       "height": 914
