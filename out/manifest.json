@@ -1,36 +1,36 @@
 {
-  "date": "2026-07-31",
-  "weekday": "friday",
+  "date": "2026-08-03",
+  "weekday": "monday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_friday",
-      "file": "pulkitchen1_friday.png",
+      "slug": "pulkitchen1_monday",
+      "file": "pulkitchen1_monday.png",
       "count": 6,
       "menus": [
-        "제육 돌솥비빔밥",
-        "두끼오리지널 떡볶이",
-        "소불고기우동",
-        "치킨시저 샐러드",
-        "유슬 짜장면 ＆달걀 프라이",
-        "유슬 짜장면 ＆달걀 프라이"
+        "알품은 닭볶음탕",
+        "소이진미채 비빔밥 ＆달걀프라이",
+        "우삼겹 들기름막국수",
+        "참치포케 샐러드",
+        "왕돈까스 ＆ 데미소스",
+        "우삼겹 폭탄 짬뽕밥"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_friday",
-      "file": "pulkitchen2_friday.png",
+      "slug": "pulkitchen2_monday",
+      "file": "pulkitchen2_monday.png",
       "count": 7,
       "menus": [
-        "육전국밥",
-        "중화덮밥 ＆계란 프라이",
-        "구운야채 냉소바＆ 새우튀김",
-        "당근라페 샐러드",
-        "미운영",
-        "당근라페 샐러드",
-        "닭가슴살 에그 또띠아랩"
+        "베테랑식 떡국",
+        "닭볶음탕",
+        "우삼겹 크림 파스타",
+        "펜네라구 샐러드",
+        "고구마 치즈 돈까스",
+        "펜네라구 샐러드",
+        "BLT 샌드위치"
       ],
       "width": 1850,
       "height": 914
