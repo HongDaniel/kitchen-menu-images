@@ -1,36 +1,36 @@
 {
-  "date": "2026-08-04",
-  "weekday": "tuesday",
+  "date": "2026-08-05",
+  "weekday": "wednesday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_tuesday",
-      "file": "pulkitchen1_tuesday.png",
+      "slug": "pulkitchen1_wednesday",
+      "file": "pulkitchen1_wednesday.png",
       "count": 6,
       "menus": [
-        "대파육개장",
-        "풀드포크 하이라이스",
-        "콩국수",
-        "바질 페스토 두부면 샐러드",
-        "돈까스 ＆ 일식 카레우동",
-        "탄탄면"
+        "꽃게된장찌개",
+        "해물신짬뽕죽",
+        "해초비빔쫄면",
+        "하비스트 샐러드",
+        "까르보 파스타 돈까스",
+        "소고기 쌀국수"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_tuesday",
-      "file": "pulkitchen2_tuesday.png",
+      "slug": "pulkitchen2_wednesday",
+      "file": "pulkitchen2_wednesday.png",
       "count": 7,
       "menus": [
-        "소고기 샤브전골",
-        "깍두기 볶읍밥 ＆프라이",
-        "해물 짬뽕죽",
-        "폴드포크 샐러드",
-        "새우 완탕면",
-        "폴드포크 샐러드",
-        "두부롤 유부초밥"
+        "돼지국밥 ＆다대기",
+        "아삭이 고추 비빔밥",
+        "소고기 쌀국수",
+        "치킨텐더 에그 샐러드",
+        "돈까스 제육 SET",
+        "치킨텐더 에그 샐러드",
+        "오이 두부 비빔밥 ＆두부칩"
       ],
       "width": 1850,
       "height": 914
