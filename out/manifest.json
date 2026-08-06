@@ -1,36 +1,36 @@
 {
-  "date": "2026-08-05",
-  "weekday": "wednesday",
+  "date": "2026-08-06",
+  "weekday": "thursday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_wednesday",
-      "file": "pulkitchen1_wednesday.png",
+      "slug": "pulkitchen1_thursday",
+      "file": "pulkitchen1_thursday.png",
       "count": 6,
       "menus": [
-        "꽃게된장찌개",
-        "해물신짬뽕죽",
-        "해초비빔쫄면",
-        "하비스트 샐러드",
-        "까르보 파스타 돈까스",
-        "소고기 쌀국수"
+        "뚝배기설렁탕",
+        "대패삼겹 마늘쫑비빔밥 ＆달걀프라이",
+        "게딱지장 파스타",
+        "불고기 타코 샐러드",
+        "눈꽃치즈 김치 볶음밥 ＆돈까스",
+        "차슈동"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_wednesday",
-      "file": "pulkitchen2_wednesday.png",
+      "slug": "pulkitchen2_thursday",
+      "file": "pulkitchen2_thursday.png",
       "count": 7,
       "menus": [
-        "돼지국밥 ＆다대기",
-        "아삭이 고추 비빔밥",
-        "소고기 쌀국수",
-        "치킨텐더 에그 샐러드",
-        "돈까스 제육 SET",
-        "치킨텐더 에그 샐러드",
-        "오이 두부 비빔밥 ＆두부칩"
+        "된장찌개",
+        "삼겹 김치찜",
+        "라구일식 카레우동 멘치까스",
+        "리코타 치즈 샐러드",
+        "얼큰 마라탕",
+        "리코타 치즈 샐러드",
+        "메밀 김밥 ＆콩포트"
       ],
       "width": 1850,
       "height": 914
