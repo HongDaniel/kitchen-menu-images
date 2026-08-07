@@ -1,36 +1,36 @@
 {
-  "date": "2026-08-06",
-  "weekday": "thursday",
+  "date": "2026-08-07",
+  "weekday": "friday",
   "buildings": [
     {
       "label": "풀키친1 (E 1~8)",
-      "slug": "pulkitchen1_thursday",
-      "file": "pulkitchen1_thursday.png",
+      "slug": "pulkitchen1_friday",
+      "file": "pulkitchen1_friday.png",
       "count": 6,
       "menus": [
-        "뚝배기설렁탕",
-        "대패삼겹 마늘쫑비빔밥 ＆달걀프라이",
-        "게딱지장 파스타",
-        "불고기 타코 샐러드",
-        "눈꽃치즈 김치 볶음밥 ＆돈까스",
-        "차슈동"
+        "치즈참치 생야채비빔밥",
+        "두부카츠 채소덮밥",
+        "열무김치냉국수",
+        "케이준 샐러드",
+        "직화 간자장면 ＆달걀 프라이",
+        "직화 간자장면 ＆달걀 프라이"
       ],
       "width": 1392,
       "height": 914
     },
     {
       "label": "풀키친2 (E 9~14)",
-      "slug": "pulkitchen2_thursday",
-      "file": "pulkitchen2_thursday.png",
+      "slug": "pulkitchen2_friday",
+      "file": "pulkitchen2_friday.png",
       "count": 7,
       "menus": [
-        "된장찌개",
-        "삼겹 김치찜",
-        "라구일식 카레우동 멘치까스",
-        "리코타 치즈 샐러드",
-        "얼큰 마라탕",
-        "리코타 치즈 샐러드",
-        "메밀 김밥 ＆콩포트"
+        "닭개장",
+        "부타동",
+        "비빔냉면",
+        "불고기 에그누들 샐러드",
+        "미운영",
+        "불고기 에그누들 샐러드",
+        "머쉬룸 치즈 샌드위치"
       ],
       "width": 1850,
       "height": 914
